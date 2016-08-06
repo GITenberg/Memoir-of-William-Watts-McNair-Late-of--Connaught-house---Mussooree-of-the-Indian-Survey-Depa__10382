@@ -1,0 +1,25 @@
+_repo: Memoir-of-William-Watts-McNair-Late-of--Connaught-house---Mussooree-of-the-Indian-Survey-Depa__10382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, J. E.
+    gutenberg_agent_id: '3500'
+    url: http://www.gutenberg.org/2009/agents/3500
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuristan (Afghanistan) -- Description and travel'
+- !lcsh 'McNair, William Watts, 1849-1889'
+- !lcsh 'Nuristani (Asian people)'
+- !lcc 'DS'
+- GITenberg
+title: Memoir of William Watts McNair, Late of "Connaught house," Mussooree, of the
+  Indian Survey Department, the First European Explorer of Kafiristan
+url: http://www.gutenberg.org/ebooks/10382
