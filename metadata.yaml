@@ -1,11 +1,16 @@
 _repo: Memoir-of-William-Watts-McNair-Late-of--Connaught-house---Mussooree-of-the-Indian-Survey-Depa__10382
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howard, J. E.
     gutenberg_agent_id: '3500'
     url: http://www.gutenberg.org/2009/agents/3500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10382#Memoir-of-William-Watts-McNair-Late-of--Connaught-house---Mussooree-of-the-Indian-Survey-Depa_
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
